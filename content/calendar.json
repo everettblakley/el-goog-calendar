@@ -1,0 +1,43 @@
+{
+  "year_len": 351,
+  "events": 1,
+  "n_months": 6,
+  "months": ["Azrael", "Samue", "Pyraph", "Malel", "Suraph", "Aniyah"],
+  "month_len": {
+    "Azrael": 58,
+    "Samue": 58,
+    "Pyraph": 58,
+    "Malel": 59,
+    "Suraph": 59,
+    "Aniyah": 59
+  },
+  "week_len": 7,
+  "weekdays": [
+    "Uriel",
+    "Seriel",
+    "Paha",
+    "Biniel",
+    "Isran",
+    "Peniel",
+    "Kochbalth"
+  ],
+  "n_moons": 4,
+  "moons": ["Aniel", "Sandej", "Dielah", "Reuliel"],
+  "lunar_cyc": {
+    "Aniel": 19,
+    "Sandej": 39,
+    "Dielah": 47,
+    "Reuliel": 56
+  },
+  "lunar_shf": {
+    "Aniel": 0,
+    "Sandej": 0,
+    "Dielah": 0,
+    "Reuliel": 0
+  },
+  "year": 1129,
+  "first_day": 0,
+  "notes": {
+    "1129-3-2": "Bought watch from El Goog"
+  }
+}
