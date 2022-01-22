@@ -15,7 +15,7 @@
         <month-preview :month="currentMonth" />
       </aside>
       <main class="flex-grow flex-shrink-0">
-        <p>Calendar</p>
+        <month-view :month="currentMonth" />
       </main>
     </div>
   </div>
